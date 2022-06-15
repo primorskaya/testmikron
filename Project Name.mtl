@@ -1,0 +1,55 @@
+newmtl Subsurface Textured 1_bc07c362-ad3a-4752-8cad-84dac2f02581
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Subsurface Textured 2_66cc9f5d-3c15-435f-bd53-d13d27124560
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Architectural 3_3d15b7e3-6e8f-46d7-8bef-c9ccbbb55b7f
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Architectural 4_743d7d8a-a788-47bb-b5f9-9881b11fe1a6
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Architectural 5_04da4330-13a2-4495-8926-603c6386fbe8
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Lunar Dust_c5b1164b-8f08-49b3-afc1-f02bd1496926
+Kd 0.098 0.180 0.486
+d 1.000
+newmtl Lunar Dust 1_dfa33a77-faa3-49b5-9e2f-68c298e973f6
+Kd 0.098 0.180 0.486
+d 1.000
+newmtl Lunar Dust 2_c3e23282-beaa-41bb-9480-8eb0d98816f8
+Kd 0.098 0.180 0.486
+d 1.000
+newmtl Subsurface Textured00000_1d65fa40-012a-40e0-9a89-5e4311aadb05
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Display0_93c0465c-0e33-4467-8d6b-d8a45707ada8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Frame_48.jpg
+newmtl Display Rim0_155bce41-4d5e-4b11-ae9b-89433cf675cf
+Kd 0.741 0.820 0.941
+d 1.000
+newmtl Camera Rims 10_44c8a22e-1483-4da4-a4f6-47dbf19d34dd
+Kd 0.380 0.376 0.365
+d 1.000
+newmtl Camera Rims 20_658193ec-9749-47ab-a669-304aba303357
+Kd 0.200 0.200 0.200
+d 1.000
+newmtl Display Rim0 1_20fafd61-7a9e-442e-9661-689e32f5a998
+Kd 0.741 0.847 0.941
+d 1.000
+newmtl Rear Glass 1_ac01a510-2a33-4d6a-8971-3a1c4df0d2e1
+Kd 0.400 0.396 0.380
+d 1.000
+newmtl Camera Glass0_32f5b1eb-3f20-4236-8f83-02d0f9c07ddb
+Kd 0.400 0.396 0.380
+d 1.000
+newmtl Body 1_5465424c-cd22-4ac9-919f-19718dc15e65
+Kd 0.098 0.180 0.486
+d 1.000
+newmtl Antennas0_dbbe8770-40d1-4795-96f3-3f1eb242bbc1
+Kd 1.000 0.925 1.000
+d 1.000
